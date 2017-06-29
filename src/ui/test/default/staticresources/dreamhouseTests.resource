@@ -36,7 +36,7 @@ describe('Dreamhouse Lightning Component tests', function() {
         });
 
         it('check that the property type is properly configured', function() {
-            expect(this.component.find("card").get("v.footer")).toContain("Powered by Einstein");
+            expect(this.component.find("cardTitle").get("v.title")).toBe("Powered by Einstein");
         });
 
     });
