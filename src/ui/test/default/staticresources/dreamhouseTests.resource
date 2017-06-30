@@ -3,18 +3,8 @@
  * These examples show the "shape" of a Jasmine spec.
  */
 describe('Dreamhouse Lightning Component tests', function() {
-
     describe('c:IQPictureUploader', function() {
-
-        // These tests are making server-side calls and interacting with LDS events,
-        // so increase the default timeout to reduce tests flappiness
-        var originalTimeout;
-        var defaultTimeout = 10000;
-
         beforeEach(function(done) {
-            originalTimeout = jasmine.DEFAULT_TIMEOUT_INTERVAL;
-            jasmine.DEFAULT_TIMEOUT_INTERVAL = defaultTimeout;
-
             // Create a record in advance, for use with the Save, Reload and Delete actions
             var that = this;
             var renderInto = document.getElementById("renderTestComponents");
@@ -32,11 +22,14 @@ describe('Dreamhouse Lightning Component tests', function() {
             // Each spec (test) renders its components into the same div,
             // so we need to clear that div out at the end of each spec.
             $T.clearRenderedTestComponents();
-            jasmine.DEFAULT_TIMEOUT_INTERVAL = originalTimeout;
         });
 
         it('check that the property type is properly configured', function() {
-            expect(this.component.find("cardTitle").get("v.title")).toBe("Powered by Einstein");
+            var title = this.component.find("cardTitle").get("v.title")
+            expect(title).toBeDefined();
+            expect(title.length).toBe(2);
+            expect(title[1].get("v.value")).toContain("IQ Picture Uploader");;
+            expect(this.component.find("cardTitle").get("v.footer")).toBe("Powered by Einstein");
         });
 
     });
