@@ -8,6 +8,6 @@
       "path": "src/ui"
     }
   ],
-  "namespace": "",
+  "namespace": "AcmeIncExample",
   "sfdcLoginUrl": "https://login.salesforce.com"
 }

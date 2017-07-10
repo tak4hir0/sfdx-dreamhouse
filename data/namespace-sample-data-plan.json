@@ -1,0 +1,16 @@
+[
+  {
+    "sobject": "AcmeIncExample__Broker__c",
+    "saveRefs": true,
+    "files": [
+      "namespace-brokers-data.json"
+    ]
+  },
+  {
+    "sobject": "AcmeIncExample__Property__c",
+    "resolveRefs": true,
+    "files": [
+      "namespace-properties-data.json"
+    ]
+  }
+]

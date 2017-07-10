@@ -1,0 +1,100 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "AcmeIncExample__Broker__c",
+        "referenceId": "CarolineBrookerRef"
+      },
+      "name": "Caroline Kingsley",
+	  "AcmeIncExample__Title__c": "Senior Broker",
+	  "AcmeIncExample__Phone__c": "617-244-3672",
+	  "AcmeIncExample__Mobile_Phone__c": "617-244-3672",
+	  "AcmeIncExample__Email__c": "caroline@dreamhouse.demo",
+	  "AcmeIncExample__Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/caroline_kingsley.jpg"
+    },
+    {
+      "attributes": {
+        "type": "AcmeIncExample__Broker__c",
+        "referenceId": "MichaelJonesRef"
+      },
+      "name": "Michael Jones",
+      "AcmeIncExample__Title__c": "Senior Broker",
+	  "AcmeIncExample__Phone__c": "617-244-3672",
+	  "AcmeIncExample__Mobile_Phone__c": "617-244-3672",
+	  "AcmeIncExample__Email__c": "michael@dreamhouse.demo",
+	  "AcmeIncExample__Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michael_jones.jpg"
+    },
+    {
+      "attributes": {
+        "type": "AcmeIncExample__Broker__c",
+        "referenceId": "JonathanBradleyRef"
+      },
+      "name": "Jonathan Bradley",
+      "AcmeIncExample__Title__c": "Senior Broker",
+      "AcmeIncExample__Phone__c": "617-244-3672",
+      "AcmeIncExample__Mobile_Phone__c": "617-244-3672",
+      "AcmeIncExample__Email__c": "jonathan@dreamhouse.demo",
+      "AcmeIncExample__Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/jonathan_bradley.jpg"
+    },
+    {
+      "attributes": {
+        "type": "AcmeIncExample__Broker__c",
+        "referenceId": "JenniferWuRef"
+      },
+      "name": "Jennifer Wu",
+      "AcmeIncExample__Title__c": "Senior Broker",
+      "AcmeIncExample__Phone__c": "617-244-3672",
+      "AcmeIncExample__Mobile_Phone__c": "617-244-3672",
+      "AcmeIncExample__Email__c": "jen@dreamhouse.demo",
+      "AcmeIncExample__Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/jennifer_wu.jpg"
+    },
+    {
+      "attributes": {
+        "type": "AcmeIncExample__Broker__c",
+        "referenceId": "OliviaGreenRef"
+      },
+      "name": "Olivia Green",
+      "AcmeIncExample__Title__c": "Senior Broker",
+      "AcmeIncExample__Phone__c": "617-244-3672",
+      "AcmeIncExample__Mobile_Phone__c": "617-244-3672",
+      "AcmeIncExample__Email__c": "olivia@dreamhouse.demo",
+      "AcmeIncExample__Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/olivia_green.jpg"
+    },
+    {
+      "attributes": {
+        "type": "AcmeIncExample__Broker__c",
+        "referenceId": "MiriamAupontRef"
+      },
+      "name": "Miriam Aupont",
+      "AcmeIncExample__Title__c": "Senior Broker",
+      "AcmeIncExample__Phone__c": "617-244-3672",
+      "AcmeIncExample__Mobile_Phone__c": "617-244-3672",
+      "AcmeIncExample__Email__c": "miriam@dreamhouse.demo",
+      "AcmeIncExample__Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/miriam_aupont.jpg"
+    },
+    {
+      "attributes": {
+        "type": "AcmeIncExample__Broker__c",
+        "referenceId": "MichelleLambertRef"
+      },
+      "name": "Michelle Lambert",
+      "AcmeIncExample__Title__c": "Senior Broker",
+      "AcmeIncExample__Phone__c": "617-244-3672",
+      "AcmeIncExample__Mobile_Phone__c": "617-244-3672",
+      "AcmeIncExample__Email__c": "michelle@dreamhouse.demo",
+      "AcmeIncExample__Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michelle_lambert.jpg"
+    },
+    {
+      "attributes": {
+        "type": "AcmeIncExample__Broker__c",
+        "referenceId": "SeniorBrokerRef"
+      },
+      "name": "Victor Ochoa",
+      "AcmeIncExample__Title__c": "Senior Broker",
+      "AcmeIncExample__Phone__c": "617-244-3672",
+      "AcmeIncExample__Mobile_Phone__c": "617-244-3672",
+      "AcmeIncExample__Email__c": "victor@dreamhouse.demo",
+      "AcmeIncExample__Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/victor_ochoa.jpg"
+    }
+  ]
+}

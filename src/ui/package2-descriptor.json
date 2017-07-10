@@ -1,0 +1,11 @@
+{
+    "name": "SFDX Dreamhouse UI",
+    "description": "UI for SFDX Dreamhouse App",
+    "version": "1.0.0.NEXT",
+    "ancestor": "",
+    "features": "",
+    "dependencies" :["04txx0000000E80AAE"],
+    "orgPreferences": {
+        "S1DesktopEnabled": true
+    }
+}

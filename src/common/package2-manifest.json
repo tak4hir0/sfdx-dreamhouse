@@ -1,0 +1,71 @@
+{
+    "package2Members": [
+        {
+            "name": "ApexClass",
+            "members": [
+                "PropertyController",
+                "PropertyPagedResult"
+            ]
+        },
+        {
+            "name": "FlexiPage",
+            "members": [
+                "Property_Record_Page"
+            ]
+        },
+        {
+            "name": "CustomObject",
+            "members": [
+                "Broker__c",
+                "Favorite__c",
+                "Property__c"
+            ]
+        },
+        {
+            "name": "CompactLayout",
+            "members": [
+                "Broker__c.Broker_Compact",
+                "Property__c.Property_Compact_Layout"
+            ]
+        },
+        {
+            "name": "CustomField",
+            "members": [
+                "Broker__c.Email__c",
+                "Broker__c.Mobile_Phone__c",
+                "Broker__c.Phone__c",
+                "Broker__c.Picture_IMG__c",
+                "Broker__c.Picture__c",
+                "Broker__c.Title__c",
+                "Case.Property__c",
+                "Favorite__c.Property__c",
+                "Favorite__c.User__c",
+                "Property__c.Address__c",
+                "Property__c.Baths__c",
+                "Property__c.Beds__c",
+                "Property__c.Broker__c",
+                "Property__c.City__c",
+                "Property__c.Description__c",
+                "Property__c.Location__c",
+                "Property__c.Picture_IMG__c",
+                "Property__c.Picture__c",
+                "Property__c.Price__c",
+                "Property__c.Record_Link__c",
+                "Property__c.State__c",
+                "Property__c.Status__c",
+                "Property__c.Thumbnail_IMG__c",
+                "Property__c.Thumbnail__c",
+                "Property__c.Title__c",
+                "Property__c.Zip__c"
+            ]
+        },
+        {
+            "name": "ListView",
+            "members": [
+                "Broker__c.All",
+                "Favorite__c.All",
+                "Property__c.All"
+            ]
+        }
+    ]
+}

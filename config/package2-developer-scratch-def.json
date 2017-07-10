@@ -1,0 +1,13 @@
+{
+  "orgName": "SFDX Dreamhouse - Developer Org",
+  "country": "US",
+  "edition": "Developer",
+  "features": "",
+  "package2AncestorIds": "",
+  "orgPreferences": {
+    "enabled": [
+      "S1DesktopEnabled"
+    ],
+    "disabled": []
+  }
+}

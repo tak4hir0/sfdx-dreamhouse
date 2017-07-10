@@ -1,0 +1,83 @@
+{
+    "package2Members": [
+        {
+            "name": "CustomApplication",
+            "members": [
+                "DreamHouse"
+            ]
+        },
+        {
+            "name": "AuraDefinitionBundle",
+            "members": [
+                "Gallery",
+                "IQPictureUploader",
+                "Map",
+                "PropertyExplorer",
+                "PropertyExplorerApp",
+                "PropertyList",
+                "PropertyListHeader",
+                "PropertyListItem",
+                "PropertyPageChange",
+                "PropertyPaginator",
+                "PropertyPriceSelectionChange",
+                "PropertyPriceSlider",
+                "PropertySearchBar",
+                "PropertySearchKeyChange",
+                "svg"
+            ]
+        },
+        {
+            "name": "Layout",
+            "members": [
+                "Broker__c-Broker Layout",
+                "Favorite__c-Favorite Layout",
+                "Property__c-Property Layout"
+            ]
+        },
+        {
+            "name": "ApexPage",
+            "members": [
+                "SmartHome"
+            ]
+        },
+        {
+            "name": "PermissionSet",
+            "members": [
+                "DreamHouse"
+            ]
+        },
+        {
+            "name": "StaticResource",
+            "members": [
+                "SLDS100",
+                "SmartHomeVFP_styles",
+                "jquery",
+                "leaflet",
+                "nouislider",
+                "smarthome"
+            ]
+        },
+        {
+            "name": "CustomTab",
+            "members": [
+                "Broker__c",
+                "Property_Explorer",
+                "Property__c",
+                "Smart_Home"
+            ]
+        },
+        {
+            "name": "ApexTrigger",
+            "members": [
+                "RejectDuplicateFavorite"
+            ]
+        },
+        {
+            "name": "ApexClass",
+            "members": [
+                "PropertyControllerTest",
+                "RejectDuplicateFavoriteTest"
+            ]
+        }
+    ]
+}

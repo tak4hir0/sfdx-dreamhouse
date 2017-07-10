@@ -1,0 +1,10 @@
+{
+    "name": "SFDX Dreamhouse Common",
+    "description": "Schema and Data for SFDX Dreamhouse App",
+    "version": "1.0.0.NEXT",
+    "ancestor": "",
+    "features": "",
+    "orgPreferences": {
+        "S1DesktopEnabled": true
+    }
+}
